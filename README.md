@@ -1,5 +1,5 @@
 # Income-Prediction
-With TensorFlow Linear Classification
+With TensorFlow Linear Classification  
 This model uses various features of an individual in the California Census Data to predict what class of income they belong in (>=50K or <50K)
 Given features are: 
    * age
